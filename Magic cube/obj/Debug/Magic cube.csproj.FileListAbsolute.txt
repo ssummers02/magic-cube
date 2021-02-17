@@ -1,0 +1,10 @@
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\bin\Debug\Magic cube.exe.config
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\bin\Debug\Magic cube.exe
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\bin\Debug\Magic cube.pdb
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic cube.csprojAssemblyReference.cache
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic_cube.Form1.resources
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic_cube.Properties.Resources.resources
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic cube.csproj.GenerateResource.cache
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic cube.csproj.CoreCompileInputs.cache
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic cube.exe
+C:\Users\Ssummers\Desktop\Magic_cube\Magic cube\obj\Debug\Magic cube.pdb
